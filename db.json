@@ -1,0 +1,77 @@
+{
+    "users": [
+        {
+            "id": 0,
+            "user_uuid": "41976f01-f675-422b-897e-d9e5bc9cf08c",
+            "username": "Cameron Merkerson",
+            "handle": "MerkCam",
+            "bio": "I am a current Computing student, working on building and developing my craft. Looking for internship or learning oppurtunities. Thank You for viewing my app",
+            "link": "http://github.com/",
+            "img": "https://i.imgur.com/CGCGG0v.jpg",
+            "instagram_url": "http://instagram.com/cameronahmadd",
+            "followers": [
+                {
+                    "user_uuid": "fb7f7aa7-0279-4f6f-a6d1-5a951417cc1e"
+
+                },
+                {
+                    "user_uuid": "7544b014-abc3-4b58-9a83-ce439bfe5d69"
+
+                }
+            
+            ]
+            },
+
+             {
+            "id": 1,
+            "user_uuid": "7544b014-abc3-4b58-9a83-ce439bfe5d69",
+            "username": "BettingMan",
+            "handle": "BettiCrocker",
+            "bio": "Giving u tips and tricks for sports betting",
+            "link": "https://www.fanduel.com/",
+            "img": "",
+            "instagram_url":"" ,
+            "followers": [
+                {
+                    "user_uuid": "fb7f7aa7-0279-4f6f-a6d1-5a951417cc1e"
+
+                },
+                {
+                    "user_uuid": "7544b014-abc3-4b58-9a83-ce439bfe5d69"
+
+                }
+        
+
+            ]
+        }
+
+],
+    "threads": [ 
+        {
+            "id": 0,
+            "timestamp": "Wed Aug 30 2023 12:46:43 GMT-0400 (Eastern Daylight Time)",
+            "thread_from": "41976f01-f675-422b-897e-d9e5bc9cf08c",
+            "thread_to": null,
+            "reply_to": null,
+            "text": "Hello world (of threads)",
+            "likes":[
+                {
+                    "user_uuid": "7544b014-abc3-4b58-9a83-ce439bfe5d69"
+                }
+    ]
+
+},
+
+{
+    "id": 1,
+    "timestamp": "Wed Aug 30 2023 1:46:43 GMT-0400 (Eastern Daylight Time)",
+    "thread_from": "41976f01-f675-422b-897e-d9e5bc9cf08c",
+    "thread_to": null,
+    "reply_to": null,
+    "text": "Beautiful day isnt it!",
+    "likes":[]
+
+}
+
+    ]
+}
